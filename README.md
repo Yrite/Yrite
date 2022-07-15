@@ -10,7 +10,7 @@
 
 <br />
 
-Hi, My name is Yuriy
+Hi, I'm Yuriy, an Vurtualization Engineer from Moscow.
 
 <br />
 
